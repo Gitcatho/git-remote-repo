@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-수업 주제: Git 충돌
-=======
-수업 주제: Git 브랜치
->>>>>>> feature/schedule
+수업 주제: Git 기초
